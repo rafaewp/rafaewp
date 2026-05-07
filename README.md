@@ -5,7 +5,7 @@
 Me chamo Rafael Pereira, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Sistemas de Informação pela Universidade Federal Fluminense (UFF). Possuo muito interesse no campo da tecnologia e compartilho um pouco do meu conhecimento através destes repositórios.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/rafaewp?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -18,6 +18,12 @@ Me chamo Rafael Pereira, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/rafaewp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
+    <a>
+        <img 
+            alt="Localidade" 
+            title="Resido aqui" 
+            src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-BR-purple?style=for-the-badge&logo=location&logoColor=white"
     </a>
 </p>
 
